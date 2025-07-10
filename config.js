@@ -1,7 +1,7 @@
 const config = {
-  challenge: true, // Activa la protección por contraseña
+  challenge: true,
   users: {
-    alumno: "1233", // Usuario: alumno | Contraseña: 1233
+    alumno: "1233",
   },
 };
 
